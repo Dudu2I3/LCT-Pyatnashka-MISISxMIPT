@@ -10,7 +10,7 @@
 - MVP объединяет FastAPI, Airflow, PostgreSQL и LLM (YandexGPT, интеграция через API)
 
 **Стек**
-Python, FastAPI, Airflow, PostgreSQL, LangChain, React, Docker
+Python, FastAPI, Airflow, PostgreSQL, React, Docker
 
 **Моя роль**
 - Разработка логики интеграции LLM для анализа данных и генерации SQL/DDL
